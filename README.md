@@ -1,7 +1,7 @@
 # Laser Nodes
 === Usage ===
 
-You are free to use all code and design, but I only ask that you use your <b>own artwork and animations</b> I have left my own in there to be used for learning purposes only for you to replace later.
+You are free to use all code and design, but I only ask that you use your <b>own artwork and animations</b> I have left my own in there to be used for learning purposes only for you to replace later. Thanks :)
 
 === Play === 
 
