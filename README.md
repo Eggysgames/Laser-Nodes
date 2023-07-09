@@ -13,7 +13,7 @@ This game is available to play here and many other places online >
 
 <b>Run your own version</b> - Upload the contents of Builds/WebGL to a working website/page/localhost
 
-Laser Nodes is based on my old Flash Game Nodes. It's a simple concept of lining the laser through the nodes, but the idea became more popular after it. In the Unity version I improved it with reflections and URP effects. 
+Laser Nodes is based on my old Flash Game Nodes. It's a simple concept of lining the laser through the nodes, but the idea became more popular after it. In the Unity version I improved it with reflections and URP effects. It also uses a custom moving shaders for the laser to give it a glowing effect.
 
 === Developer Information === 
 
